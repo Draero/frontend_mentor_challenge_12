@@ -112,7 +112,7 @@ main {
 }
 
 .ingredients-list div svg {
-  flex-shrink: 0; /* To adjust the flex flow about the child element */
+  flex-shrink: 0; /* To adjust the flex flow for the child element */
   margin-right: .3rem;
   fill: var(--brown-800);
 }
